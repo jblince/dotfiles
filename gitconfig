@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = juanbernardo.lince@gmail.com
-	name = Juan Bernardo
+	name = cd ~/code/$jblince/dotfiles && zsh git_setup.sh
